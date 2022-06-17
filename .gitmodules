@@ -1,3 +1,6 @@
 [submodule "projectB"]
 	path = projectB
 	url = ./projectB
+[submodule "projectC"]
+	path = projectC
+	url = ./projectC
